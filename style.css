@@ -14,22 +14,28 @@ body{
 
 nav{
     text-align: center;
+    background-color: black;
+    width: 100%;
+    height: 150px;
 }
 h1{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-size: 50pt;
     font-family: 'Hanalei';
 }
 h2{
-    color: magenta;
+    color: rgb(30, 255, 0);
     margin-top: 20px;
     font-size: 30pt;
-    font-family: 'Hanalei', cursive;
+    font-family: Arial, Helvetica, sans-serif, cursive;
 }
 section{
     display: flex;
     width: 100%;
     justify-content: space-around;
+    background-color: rgb(168, 168, 168);
+    width: 100%;
+    height: 500px;
 }
 
 div{
